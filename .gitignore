@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+Shutdown-Server/config.json
+Shutdown-Server/node_modules
+.idea/Project-Shutdown.iml
+.idea/modules.xml
+.idea/workspace.xml
+Shutdown-Server/node_modules/
+Shutdown-Server/package.json
+Shutdown-Server/yarn.lock
+.idea/inspectionProfiles/
+Would skip repository HAP-NodeJS/
+HAP-NodeJS/node_modules/
+HAP-NodeJS/config.json
+HAP-NodeJS/persist/
